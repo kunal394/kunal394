@@ -3,7 +3,7 @@
 <!--
 **kunal394/kunal394** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on the Music Download Android App, but not able to give much time to it :(. So I need a self-motivated collborator to get things back on track. Hit me up if find the project interesting enough and we can discuss more about it.
 <!--- 🌱 I’m currently learning ...
